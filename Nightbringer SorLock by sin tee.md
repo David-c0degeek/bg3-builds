@@ -37,6 +37,9 @@ This guide covers a powerful Sorcerer/Warlock build for Baldur's Gate 3, emphasi
 - Warlock level 1
     - Subclass: The Fiend
 - Cantrips
+  - Eldrich blast
+  - Friends
+- Spells
     - Hex
     - Hellish Rebuke
 - Eldritch Blast is your primary attack, effective against most enemies due to its force damage.
