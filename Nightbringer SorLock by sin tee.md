@@ -29,7 +29,7 @@ This guide covers a powerful Sorcerer/Warlock build for Baldur's Gate 3, emphasi
 - **Constitution:** 14
 - **Intelligence:** 8
 - **Wisdom:** 12
-- **Charisma:** 16 (15+1)
+- **Charisma:** 16 (15+2)
 - **Feats:** 2x Ability Improvement (+4 Cha)
 
 ## Level 1: Fiend Warlock
