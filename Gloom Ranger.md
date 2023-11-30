@@ -2,7 +2,7 @@
 
 - Drow
 - Ranger  
-  ![Alt text](Best-Ranger-Ability-Score-Baldurs-Gate-3.webp)
+  ![text](Best-Ranger-Ability-Score-Baldurs-Gate-3.webp)
 - Favoured Enemy: Bounty Hunter (class feature): Gain Investigation Proficiency. Creatures hit with Ensnaring Strike have Disadvantage on Saves.
 - Natural Explore: Wasteland Wanderer: Fire
 - Find Familiar (class spell): Summon a familiar, fey spirit that takes an animal form of your choosing.
