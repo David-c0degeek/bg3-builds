@@ -34,49 +34,88 @@ This guide covers a powerful Sorcerer/Warlock build for Baldur's Gate 3, emphasi
 
 ## Level 1: Fiend Warlock
 
-- Begin as a Fiend Warlock for strong early game spells and Dark One's Blessing for extra HP on kills.
+- Warlock level 1
+    - Subclass: The Fiend
+- Cantrips
+    - Hex
+    - Hellish Rebuke
 - Eldritch Blast is your primary attack, effective against most enemies due to its force damage.
 - Hellish Rebuke provides additional fire damage.
 
 ## Level 2: Enhancements
 
-- Agonizing Blast and Repelling Blast invocations for added damage and control.
+- Warlock level 2
+- Spells
+  - Command
+- Eldrich Invocations
+  - Agonizing Blast
+  - Repelling Blast (CARE - can cause loss of loot / drops....)
 - Devil's Sight for defense and synergy with Darkness, especially useful from Act 2 onwards.
 
 ## Level 3: Scorching Ray
 
-- Scorching Ray combined with Hex for burst damage against bosses.
-- Pack of the Chain for an imp companion, offering extra damage and strategic advantages.
+- Warlock level 3
+- Spells
+  - Scorching Ray combined with Hex for burst damage against bosses.
+- Pact boon
+  - Pack of the Chain for an imp companion, offering extra damage and strategic advantages.
 
 ## Level 4-5: Increased Power
 
+- Warlock level 4+5
+- Feat
+  - Ability improvement +2 charisma
 - Eldritch Blast now shoots two beams.
 - Fireball replaces Cloud of Daggers for AoE damage.
 
 ## Level 6: Multiclass to Sorcerer
 
+- Sorcerer level 4, warlock level 2
+- START as sorc, up to 4, then take 2x lock levels 
+- Warlock Subclass
+  - The Great Old One (instead of The Fiend)
+- Eldrich Invocations
+  - Agonizing Blast
+  - Devil's Sight
+- Make sure to pick up shield spell
+- Take darkness
 - Respec to 4 Sorcerer / 2 Warlock, selecting Draconic Bloodline for its defensive perks.
 - Focus on Sorcerer Metamagic, especially Quickened Spell for increased damage output.
+- Pick any fire ancestry
+- Abilities
+  - **Strength:** 8
+  - **Dexterity:** 16 (15+1)
+  - **Constitution:** 14
+  - **Intelligence:** 8
+  - **Wisdom:** 10
+  - **Charisma:** 17 (16+1)
 
 ## Level 7-8: Haste and Twinned Spell
 
+- Sorc level 7+8, Lock level 2
+- Replace a spell and take Fireball for more AOE
 - Use Haste for extra actions and Twinned Spell to apply it to allies.
 - Maintain concentration and avoid conflicting spells like Darkness or Hex.
 
-## Darkness and Devil's Sight
+### Play notes for current level
+
+#### Darkness and Devil's Sight
 
 - Utilize Darkness to blind enemies while you attack unhindered.
 - From patch 4, enemies can enter the Darkness but will have a disadvantage.
 
-## Sorcery Points Management
+#### Sorcery Points Management
 
 - Convert unused spell slots to Sorcery Points for more Eldritch Blasts.
 - Maintain a balance of necessary spell slots for key spells like Shield and Haste.
 
 ## Level 9-12: Multiclass to Fighter
 
-- Add 4 levels of Fighter for Action Surge and Champion subclass for increased crit chance.
-- Spell Sniper feat to enhance Eldritch Blast further.
+- Add 4 levels of Fighter for Action Surge
+- Subclass
+  - Champion (improved crit)
+- Feat
+  - Spell Sniper (further enhance Eldritch Blast)
 
 ## Alternative Multiclass: Thief
 
