@@ -113,11 +113,8 @@
 - **Weapon 1 (Main-Hand):** Defender Flail
     - Crèche Y'llek Merchant: Sold by A'jak'nir Jeera
 - **Weapon 1 (Off-Hand):** Any highest AC shield
-  - 
 - **Weapon 2 (Main-Hand):** Doesn't matter
-  - 
 - **Weapon 2 (Off-Hand):** Doesn't matter
-  - 
 
 ## Late
 
@@ -132,13 +129,10 @@
 - **Gloves:** The reviving hands
     - Stormshore Tabernacle, Lower City.
 - **Boots:**
-  - 
 - **Necklace:** Amulet of greater health
     - House of hope
 - **Ring:**
-  - 
 - **Ring:**
-  - 
 - **Weapon 1 (Main-Hand):** The Sacred Star
     - Stormshore Tabernacle Merchant: Vicar Humbletoes
 - **Weapon 1 (Off-Hand):** Viconia's Walking Fortress
@@ -146,4 +140,3 @@
 - **Weapon 2 (Main-Hand):** The Dead Shot
     - Stormshore Armoury, Lower City Merchant: Sold by Fytz the Firecracker
 - **Weapon 2 (Off-Hand):**
-  - 

@@ -74,17 +74,29 @@ This guide covers a powerful Sorcerer/Warlock build for Baldur's Gate 3, emphasi
 ## Level 6: Multiclass to Sorcerer
 
 - Sorcerer level 4, warlock level 2
+- Draconic bloodline - Gold (Or any fire you want)
 - START as sorc, up to 4, then take 2x lock levels 
+- Metamagic
+  - Distant spell
+  - Twinned spell
+  - QUICKENED spell
+- Spells
+  - SHIELD
+  - Misty step
+  - Enhanced jump
+  - Replace enhanced jump with DARKNESS (level 2->3)
+  - Mirror Image
 - Warlock Subclass
   - The Great Old One (instead of The Fiend)
+- Spells
+  - Hellish Rebuke
+  - Hex
+- Cantrips
+  - Eldrich blast...
+  - Friends
 - Eldrich Invocations
   - Agonizing Blast
   - Devil's Sight
-- Make sure to pick up shield spell
-- Take darkness
-- Respec to 4 Sorcerer / 2 Warlock, selecting Draconic Bloodline for its defensive perks.
-- Focus on Sorcerer Metamagic, especially Quickened Spell for increased damage output.
-- Pick any fire ancestry
 - Abilities
   - **Strength:** 8
   - **Dexterity:** 16 (15+1)
