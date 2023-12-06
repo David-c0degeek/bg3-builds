@@ -28,4 +28,8 @@
     - Spin the west disk three times
     - Spin the east disk twice
 
-    
+## Temple of lathander
+    Throw the Ceremonial Battleaxe on top of Dawnmaster Vaseid's pedestal at X:74 Y:69.
+    Throw the Ceremonial Warhammer on top Dawnmaster Seed's pedestal at X:77 Y:75.
+    Throw the mace on top of Dawnmaster Stockhold's pedestal at X:75 Y:71.
+
