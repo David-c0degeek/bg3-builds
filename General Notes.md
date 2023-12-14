@@ -33,3 +33,9 @@
     Throw the Ceremonial Warhammer on top Dawnmaster Seed's pedestal at X:77 Y:75.
     Throw the mace on top of Dawnmaster Stockhold's pedestal at X:75 Y:71.
 
+## Necrotic laboratory brain puzzle
+
+    Emotion: Follow the outer left edge to reach the final Emotion Node.
+    Speech: Go up, then go right, then forward to reach the Speech Node
+    Memory: Travel right, then go through the middle, then go left to reach the Memory node.
+    Reason: Follow the remaining nodes, as they should follow to the final reason node, presuming you made no mistakes.
