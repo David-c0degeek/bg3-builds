@@ -39,3 +39,21 @@
     Speech: Go up, then go right, then forward to reach the Speech Node
     Memory: Travel right, then go through the middle, then go left to reach the Memory node.
     Reason: Follow the remaining nodes, as they should follow to the final reason node, presuming you made no mistakes.
+
+## Sorcerous vault
+
+### Karsus Door: The Annals of Karsus
+
+For this section of our Baldur's Gate 3 Sorcerous Sundries Vault guide, we look at how we can acquire the Annals of Karsus. This book is required to progress Gale's Wizard of Waterdeep quest. To obtain it, enter the Silverhand room, and go through the following doorways:
+
+    Abjuration - This takes you to the next chamber.
+    Silver - There's a corridor here that leads to a lever. Interact with it to unlock the Karsus door.
+    Wild - Leave via this doorway to return to the main area.
+
+### Elminster Door: The Tharchiate Codex
+
+We're not done yet since there's still another room. Back at the main area, pass through the Silverhand door. Then, go through the following:
+
+    Evocation - This takes you to the next chamber.
+    Wish - This has a corridor and a lever that unlocks the Elminster door.
+    Foresight - This brings you back to the main chamber.
