@@ -39,6 +39,7 @@
 ### Level 8
 
 - Rogue level 3
+- Subclass: Thief
 
 ### Level 9
 
