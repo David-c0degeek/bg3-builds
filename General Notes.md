@@ -1,4 +1,8 @@
-﻿# Balanced abilities spread
+﻿https://www.youtube.com/watch?v=OhL_PvKULYY
+https://www.youtube.com/watch?v=PaVx6bhLFzQ&t=756s
+https://www.youtube.com/watch?v=dP_MfwsYfU8
+
+# Balanced abilities spread
 
 (Play with as you need, shows no stat under 10 while having 2 main stats at 16)
 
@@ -27,7 +31,11 @@
 12. The Scene might not trigger immediately so repeat Step 10 every Day DIRECTLY AFTER THE LONG REST until it appears. We are all sometimes forgetful and waste our Sup. Dice or Spell Slots during the day so just do it at the BEGINNING of the day to not forget it and having wasted a couple hours for nothing.
 13. As said by comments one way to trigger it is by crossing the bridge to the blighted village
 
+## Zentharim hideout:
+    - DO NOT have any pets / summons out...
+
 ## Hag:
+
     - Set knock out instead of kill
     - Perception / Intimidation
     - NOT paladin (breaks oath)
