@@ -1,5 +1,6 @@
 ﻿https://www.youtube.com/watch?v=OhL_PvKULYY
 https://www.youtube.com/watch?v=PaVx6bhLFzQ&t=756s
+
 https://www.youtube.com/watch?v=dP_MfwsYfU8
 
 # Balanced abilities spread
@@ -84,10 +85,14 @@ We're not done yet since there's still another room. Back at the main area, pass
     Wish - This has a corridor and a lever that unlocks the Elminster door.
     Foresight - This brings you back to the main chamber.
 
+### DESTROY the illusion door for Hellfire Greataxe
+
 ## Counting house
 
     Step on the top-left tile first
     Move to the top-right tile second
     Go to the middle tile third
     Finally, step on the right-most tile in the second row, which should be in between the middle and top-right tile
-[Baldurs-Gate-3-Screenshot-2023.08.13-02.19.54.70.webp](Baldurs-Gate-3-Screenshot-2023.08.13-02.19.54.70.webp)
+![text](Baldurs-Gate-3-Screenshot-2023.08.13-02.19.54.70.webp)  
+
+![text](4177850-baldurs-gate-3-helsik-ritual-portal-guide-2.jpg)
