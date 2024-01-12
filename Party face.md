@@ -37,9 +37,6 @@ This guide focuses on building a "party face" character for Baldur's Gate 3, opt
 - **Blessings of Knowledge**: Arcana, Religion
 - Selune (More ingame interactions).
 - Cantrips: Thaumaturgy, Guidance, Resistance.
-- Expertise:
-  - Arcana
-  - History
 
 ## Level 4 (Cleric 2)
 - **Channel Divinity**: Knowledge of the Ages
