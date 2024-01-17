@@ -20,7 +20,7 @@ This guide covers a powerful Sorcerer/Warlock build for Baldur's Gate 3, emphasi
 - **Constitution:** 14
 - **Intelligence:** 8
 - **Wisdom:** 10
-- **Charisma:** 17 (16+1)
+- **Charisma:** 17 (15+2)
 - **Feats:** Ability Improvement (+2 Cha), Spell Sniper
 
 ### Companion
@@ -41,15 +41,16 @@ This guide covers a powerful Sorcerer/Warlock build for Baldur's Gate 3, emphasi
   - Friends
 - Spells
     - Hex
-    - Hellish Rebuke
+    - Armor of Agathys
 - Eldritch Blast is your primary attack, effective against most enemies due to its force damage.
 - Hellish Rebuke provides additional fire damage.
+- Deception
 
 ## Level 2: Enhancements
 
 - Warlock level 2
 - Spells
-  - Command
+  - Hellish Rebuke
 - Eldrich Invocations
   - Agonizing Blast
   - Repelling Blast (CARE - can cause loss of loot / drops....)
