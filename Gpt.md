@@ -70,6 +70,7 @@ use the following format:
 
 -
 
+# Illithid powers
 
 # Notes / Suggestions / Tips
 

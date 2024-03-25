@@ -96,3 +96,25 @@ We're not done yet since there's still another room. Back at the main area, pass
 ![text](Baldurs-Gate-3-Screenshot-2023.08.13-02.19.54.70.webp)  
 
 ![text](4177850-baldurs-gate-3-helsik-ritual-portal-guide-2.jpg)
+
+## Bernard
+
+'Or art thou friend, a rescue from my lonely wake?'
+
+    You must give this command first when dialogue begins. It makes him friendly and allows you to have dialogue with him.
+
+'The silence stretches on - I'm all alone. / Please, can I hold your hands, for just a while?'
+
+    Bernard offers to give you a hug. There's no mechanical or gameplay benefit, though it might make you feel better on the inside.
+
+'How can I trust? How will I ever know? / How can I show myself, the darkest me?'
+
+    Bernard walks over to a table and places the Guiding Light magic ring on it for you to take. This ring, when equipped, allows the wearer to cast the Light cantrip at any time.
+
+'These empty sheets are all that's left of you. / The last of all the thoughtless gifts you gave.'
+
+    Bernard gives you a Scroll of Prayer of Healing.
+
+'There is a light in every living thing. / It's crawling t'wards the surface to survive.'
+
+    Bernard and all nearby Animated Armor NPC constructs turn hostile. There is no way to pacify them again from that point on, it's a fight to the death

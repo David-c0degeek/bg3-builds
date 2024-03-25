@@ -1,4 +1,4 @@
-﻿# Baldur's Gate 3: Nightbringer – Sorcerer/Warlock Build | Tactician Mode
+﻿dd# Baldur's Gate 3: Nightbringer – Sorcerer/Warlock Build | Tactician Mode
 
 Build by: sin tee [Baldur's Gate 3: Nightbringer – Sorcerer/Warlock Build | Tactician Mode](https://www.youtube.com/watch?v=6qwZLSOJz0c)  
 Guide by: xHaplo
